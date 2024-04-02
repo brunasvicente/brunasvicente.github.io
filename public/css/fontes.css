@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'bold';
+    src: url(/public/assets/fonts/Bold.woff2);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(/public/assets/fonts/Regular.woff2);
+}
+
+@font-face {
+    font-family: 'kalan';
+    src: url(/public/assets/fonts/Kalam-Bold.ttf);
+}

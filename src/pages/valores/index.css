@@ -1,0 +1,208 @@
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+
+    gap: 100px;
+
+    background-color: #412013;
+    padding: 10PX
+}
+
+
+
+.logo{
+    margin-left: 15px;
+
+    text-align: center;
+    text-decoration: underline;
+
+    color: #d3947c;
+    
+    font-family: 'kalan';
+    font-size: 15px
+}
+
+.textos{
+    margin-top: 10px;
+}
+
+ 
+.textos a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 30PX;
+    align-items: center;
+    font-family: 'regular';
+}
+
+.textos :hover{
+    text-decoration: underline;
+}
+
+
+.botao{
+    margin-top: 10px;
+}
+
+
+.botao a{
+        background-color: #fff;
+    padding: 10px 25px;
+
+    border-radius: 3px;
+
+    text-decoration: none;
+    font-family: 'regular';
+    color: #923f1e;
+}
+
+.botao :hover{
+    background-color: #ecd6cd;
+    
+  
+    box-shadow: 5px 5px 5px  #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.principal{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    
+
+    gap: 60px;
+    
+    background-image: url(/public/assets/images/graocafe.jpg);
+}
+
+.card1{
+    padding: 90px 60px;
+    background-color: #b96e48;
+    border-radius:10px;
+
+    box-shadow: 12px 12px #412013;
+    
+    display: flex;
+    gap: 60px;
+
+    margin-left: 80px;
+}
+.principal h1{
+    font-family: 'bold';
+    text-align: left;
+}
+
+.principal a{
+    font-family: 'regular';
+    text-decoration: none;    
+}
+
+.principal img{
+    width: 500px;
+    border-radius: 20px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.botao2{
+    margin-top: 20px;
+
+}
+
+.botao2 a{
+    color: #923f1e;
+    
+    background-color: #fff;
+    padding: 10px 25px;
+
+    border-radius: 3px;
+}
+
+.botao2 :hover{
+    background-color: #ecd6cd;
+    
+  
+    box-shadow: 5px 5px 5px  #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.card2{
+    padding: 90px 60px;
+    background-color: #b96e48;
+    border-radius:10px;
+
+    box-shadow: 12px 12px #412013;
+
+    display: flex;
+    gap: 60px;
+
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.principal h1{
+    font-family: 'bold';
+    text-align: left;
+}
+
+.principal a{
+    font-family: 'regular';
+    text-decoration: none;    
+}
+
+.principal img{
+    width: 500px;
+    border-radius: 20px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.botao3{
+    margin-top: 20px;
+
+
+}
+
+.botao3 a{
+    color: #923f1e;
+    background-color: #fff;
+    padding: 10px 25px;
+
+    border-radius: 3px;
+}         
+
+.botao3 :hover{
+    background-color: #ecd6cd;
+    
+  
+    box-shadow: 5px 5px 5px  #000;
+}
